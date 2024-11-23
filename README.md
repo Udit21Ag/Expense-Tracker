@@ -1,4 +1,4 @@
-A sample expense tracker using reactJS
+A simple expense tracker using reactJS
 
 # Getting Started with Create React App
 
